@@ -1,4 +1,8 @@
 .cor-1{
     background-color:#242446;
-    height: 60px;
+    height: 60px;}
+
+main{
+    width: 100px;
+    position: relative;
 }
