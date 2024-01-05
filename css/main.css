@@ -40,3 +40,10 @@ main{
     padding: 5px;
     float: right;
 }
+
+.header-2 {
+    background-color: purple;
+    width: 100%;
+    border-bottom:5px solid black;
+
+}
