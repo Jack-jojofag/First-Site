@@ -1,8 +1,16 @@
-.cor-1{
+body{
+    width: 100%;
+ height: 100%;
+}
+
+
+.menu-principal{
+    width: 100%;
     background-color: #242446;
     height: 70px;}
 
 main{
     width: 100px;
     position: relative;
+    margin: 0 auto;
 }
